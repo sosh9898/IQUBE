@@ -1,0 +1,9 @@
+lastUpgrade=00938a
+proj.pluginVersion=0.9.38a
+proj.AppId=440186330028
+and.BundleId=com.Bigpicture.IQube
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e440186330028%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.Bigpicture.IQube%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_10_stars_achieved%22%3eCgkIrLeZ6ecMEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_20_stars_achieved%22%3eCgkIrLeZ6ecMEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_30_stars_achieved%22%3eCgkIrLeZ6ecMEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_40_stars_achieved%22%3eCgkIrLeZ6ecMEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_50_stars_achieved%22%3eCgkIrLeZ6ecMEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_60_stars_achieved%22%3eCgkIrLeZ6ecMEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_70_stars_achieved%22%3eCgkIrLeZ6ecMEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_80_stars_achieved%22%3eCgkIrLeZ6ecMEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_90_stars_achieved%22%3eCgkIrLeZ6ecMEAIQCw%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=440186330028-0q2avi8hvm771sbsootctdm4708dop8q.apps.googleusercontent.com
+android.SetupDone=true
